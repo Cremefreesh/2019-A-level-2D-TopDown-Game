@@ -1,0 +1,1 @@
+{"currXp":60.0,"maxXp":825.0,"currHealth":400.0,"maxHealth":400,"level":3,"levelUpPoints":4,"attackDamage":1140.0,"sceneName":"Clearing","strength":10,"dexterity":0,"resistance":0,"luck":0}
